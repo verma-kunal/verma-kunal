@@ -16,6 +16,13 @@
 
 <!-- Badges template - https://github.com/badges/shields -->
 
+
+## 👨‍💻 About Me
+
+
+My name is **Kunal Verma** and a junior pursuing my Bachelor's in Information Technology from India 🎓 &nbsp;I am a **Full-Stack Web development enthusiast** & also passionate about **Open Source** 💻  &nbsp; I like to interact with folks in the community and believe in **Learning & Empowering Others** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em>
+
+
 ## 🙋‍♂️ Connect with me
 
 <p align="center">
