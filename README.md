@@ -34,16 +34,6 @@ My name is **Kunal Verma** and I am a junior pursuing my Bachelor's in Informati
 ![Kubernetes](https://img.shields.io/badge/-kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-## <🙋‍♂️ Connect with me>
-<p>
-  
-  <a href="https://twitter.com/kverma_twt" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a> <a href="https://www.linkedin.com/in/verma-kunal/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> <a href="https://dev.to/kverma_dev" target="_blank"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white">
-</a>
-
-</p>
-
 ## <📈 GitHub Stats >  
 
 
@@ -54,6 +44,16 @@ My name is **Kunal Verma** and I am a junior pursuing my Bachelor's in Informati
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=verma-kunal&show_icons=true&theme=algolia&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=verma-kunal&theme=algolia&hide_border=true" />
+</p>
+
+## <🙋‍♂️ Connect with me>
+<p>
+  
+  <a href="https://twitter.com/kverma_twt" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a> <a href="https://www.linkedin.com/in/verma-kunal/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> <a href="https://dev.to/kverma_dev" target="_blank"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white">
+</a>
+
 </p>
 
 
