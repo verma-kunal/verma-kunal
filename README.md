@@ -17,11 +17,24 @@
 <!-- Badges template - https://github.com/badges/shields -->
 
 
-## < 👨‍💻 About Me >
-My name is **Kunal Verma** and I am a junior pursuing my Bachelor's in Information Technology from India 🎓 &nbsp;I am a **Full-Stack Web development enthusiast** & also passionate about **Open Source** 💻  &nbsp; Believe in **Learning & Empowering Others** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em>
+## <👨‍💻 About Me>
+
+My name is **Kunal Verma** and I am a junior pursuing my Bachelor's in Information Technology from India 🎓 &nbsp;I am a **Full-Stack Web development enthusiast** & also passionate about **Open Source** 💻  &nbsp; Believe in **Learning & Empowering Others** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
+
+  
+## <🔩 ToolBox>  
+
+![Java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=4B8BBE)
+![Javascript](https://img.shields.io/badge/-javascript-FFED66?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-html5-d9534f?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-5448C8?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/-docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-## < 🙋‍♂️ Connect with me >
+## <🙋‍♂️ Connect with me>
 <p>
   
   <a href="https://twitter.com/kverma_twt" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
