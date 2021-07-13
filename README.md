@@ -20,17 +20,18 @@
 ## <👨‍💻 About Me>
 
 My name is **Kunal Verma** and I am a junior pursuing my Bachelor's in Information Technology from India 🎓 &nbsp;I am a **Full-Stack Web development enthusiast** & also passionate about **Open Source** 💻  &nbsp; Believe in **Learning & Empowering Others** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
-<p align = "center">
+<h1 align = "center">
   
   <a href="https://twitter.com/kverma_twt" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a> <a href="https://www.linkedin.com/in/verma-kunal/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> <a href="https://dev.to/kverma_dev" target="_blank"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white">
 </a>
 
-</p>
+</h1>
 
   
 ## <🔩 ToolBox>  
+<h1 align = "center">
 
 ![Java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=4B8BBE)
@@ -40,7 +41,7 @@ My name is **Kunal Verma** and I am a junior pursuing my Bachelor's in Informati
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-5448C8?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/-docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+</h1>
 
 ## <📈 GitHub Stats >  
 
