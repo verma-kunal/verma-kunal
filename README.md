@@ -47,7 +47,6 @@ My name is **Kunal Verma** and I am a junior pursuing my Bachelor's in Informati
 
 ## <📈 GitHub Stats >  
 
-
 <!-- Contributor Graph-1 : https://activity-graph.herokuapp.com/graph?username=verma-kunal&theme=xcode  -->
 ![](https://activity-graph.herokuapp.com/graph?username=verma-kunal&theme=react-dark&hide_border=true)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=verma-kunal&show_icons=true&theme=tokyonight)  -->
