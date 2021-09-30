@@ -53,7 +53,7 @@ My name is **Kunal Verma** and I am a sophomore pursuing my Bachelor's in Inform
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=verma-kunal&show_icons=true&theme=algolia&hide_border=true" />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=verma-kunal&theme=algolia&hide_border=true" /> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=verma-kunal&theme=algolia&hide_border=true" />
 </p>
 
 <!-- 
