@@ -56,7 +56,7 @@ My name is **Kunal Verma** and I am a sophomore pursuing my Bachelor's in Inform
 <!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=verma-kunal&theme=algolia&hide_border=true" /> -->
 </p>
 
-
+<!-- 
 ## <🙋‍♂️ Connect with me>
 <p>
   
@@ -65,7 +65,7 @@ My name is **Kunal Verma** and I am a sophomore pursuing my Bachelor's in Inform
 </a> <a href="https://dev.to/kverma_dev" target="_blank"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white">
 </a>
 
-</p> 
+</p>  -->
 
 
 
