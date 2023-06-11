@@ -44,31 +44,3 @@ My name is **Kunal Verma** and I am a pre-final year student pursuing my Bachelo
 ![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-markdown-747578?style=for-the-badge&logo=markdown&logoColor=white)
 </h1>
-
-## <📈 GitHub Stats >  
-
-<p align="center">
-	
-  [![](https://github-readme-activity-graph.cyclic.app/graph?username=verma-kunal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
-
-<!-- 
-## <🙋‍♂️ Connect with me>
-<p>
-  
-  <a href="https://twitter.com/kverma_twt" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a> <a href="https://www.linkedin.com/in/verma-kunal/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> <a href="https://dev.to/kverma_dev" target="_blank"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white">
-</a>
-
-</p>  -->
-
-
-
-
-
-
-
-
-
-
