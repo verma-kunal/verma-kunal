@@ -28,19 +28,3 @@ My name is **Kunal Verma** and I am a pre-final year student pursuing my Bachelo
 </a>
 
 </h1>
-
-  
-## <🔩 ToolBox>  
-<h1 align = "center">
-
-![Java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=4B8BBE)
-![Javascript](https://img.shields.io/badge/-javascript-FFED66?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-html5-d9534f?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-5448C8?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Docker](https://img.shields.io/badge/-docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-<!-- ![Kubernetes](https://img.shields.io/badge/-kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white) -->
-![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/-markdown-747578?style=for-the-badge&logo=markdown&logoColor=white)
-</h1>
