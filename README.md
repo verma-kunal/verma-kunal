@@ -19,8 +19,7 @@
 
 ## <👨‍💻 About Me>
 
-Kunal is a **DevOps and Cloud Advocate** with a passion for **Open Source**. He's been involved in the DevOps and open-source ecosystem **for more than a year** and has a strong experience in **public speaking**, **community management**, **content creation** etc. He has experience working on and contributing to some of the major projects in the **CNCF**, including **Kubernetes**, **Layer5** and others. <br>
-He always strives to **empower others** with his experiences and believes in growing with the community! 
+Kunal is a **DevOps and Cloud Advocate** with a passion for **Open Source**. He's been involved in the DevOps and open-source ecosystem **for more than a year** and has a strong experience in **public speaking**, **community management**, **content creation** etc. He has experience working on and contributing to some of the major projects in the **CNCF**, including **Kubernetes**, **Layer5** and others. He always strives to **empower others** with his experiences and believes in growing with the community! 
 
 <h1 align = "center">
   <a href="https://twitter.com/kverma_twt" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
