@@ -6,8 +6,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Verma</h1>
 <h3 align="center">DevOps and Cloud Advocate, with a passion for Open Source</h3>
 
-- 🔭 I’m currently working on [K8s Cluster Autoscaler](https://github.com/verma-kunal/k8s-autoscaler)
-
 - 🌱 I’m currently learning **Golang, Kubernetes**
 
 - 👯 I’m looking to collaborate on **DevOps, Golang, Open Source projects**
